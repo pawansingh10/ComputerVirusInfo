@@ -1,4 +1,5 @@
 # **Computer Virus**
+***
 
 - Virus is also a **software** i.e. a piece of code which has ***ability to self Replicated*** 
 
@@ -9,7 +10,7 @@
 
 
 ## **Recognize whether our system is infected with Virus or not**
-
+***
 * Abnormal Performanance
 
 * Response Time
@@ -25,7 +26,7 @@
 * Unable to boot OS
 
 ## **Impact of Virus on our system**
-
+***
 * **Data Loss**
 
 * **Programs Corrupted**
@@ -37,6 +38,7 @@
 * **Login failed or password not working**
 
 ## **Types Of viruses**
+***
 
 *  **1. Resident Virus**
 
@@ -85,7 +87,7 @@
 
 
 ## **Protection from Viruses**
-
+***
 * **Use Anti-Virus Program or Software and Keep updating**
 
    * Anti-virus will have one database which store all the details information of all virus in the database.
@@ -102,3 +104,11 @@
 * **Block Pop ups on your browsers.**
 
 ![vir](cmpvrs.png)
+
+***
+**Thank You!**
+
+***Happiness starts with you - not with your relationships, job or money!***\
+
+
+**<CODE/SPACE>**
